@@ -14,6 +14,6 @@ public class CalcReview {
 	}
 	
 	public void mul(int x, int y){
-		result=x*y+0;//multi변경
+		result=x*y+0;//multi 기능
 	}
 }
